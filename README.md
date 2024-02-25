@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋Hi, I’m Shubham Kaundal
+### 👀 I’m interested in Web Developement
+### 🌱 I’m currently learning React
+### 💞️ I’m looking to collaborate on Web Developement with React
 
 <!--
 **shubhamkaundal98/shubhamkaundal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
